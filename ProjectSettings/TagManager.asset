@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - couche_1
+  - couche_2
+  - photon
+  - couche
+  - Canvas
+  - Electron
+  - Barriere
+  - PlayerCharge
+  - Laser
+  - CerclePlayer
+  - Noyau
+  - AudioManager
+  - Menu
+  - Levels
+  - ThemeManager
+  - DataManager
+  - EventSystem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: quart_HG
+    uniqueID: 2687268431
+    locked: 0
+  - name: quart_HD
+    uniqueID: 760764223
+    locked: 0
+  - name: quart_BG
+    uniqueID: 1794617769
+    locked: 0
+  - name: quart_BD
+    uniqueID: 3877736991
+    locked: 0
+  - name: ChargeUI
+    uniqueID: 2162279939
+    locked: 0

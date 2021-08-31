@@ -1,0 +1,1524 @@
+fileFormatVersion: 2
+guid: b0378ac880e35d1468eaa0f0a4e45f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8473853523819888378
+    second: cerlce_noyau_0
+  - first:
+      213: 8039013728242553825
+    second: cerlce_noyau_1
+  - first:
+      213: 2590448127840398619
+    second: cerlce_noyau_2
+  - first:
+      213: 6588229112218463537
+    second: cerlce_noyau_3
+  - first:
+      213: -1597601597433263787
+    second: cerlce_noyau_4
+  - first:
+      213: -5920911909681208300
+    second: cerlce_noyau_5
+  - first:
+      213: 7424408504691819069
+    second: cerlce_noyau_6
+  - first:
+      213: 3486395617442331445
+    second: cerlce_noyau_7
+  - first:
+      213: -6562382774968518612
+    second: cerlce_noyau_8
+  - first:
+      213: 5728167491422397700
+    second: cerlce_noyau_9
+  - first:
+      213: -6619116296807427163
+    second: cerlce_noyau_10
+  - first:
+      213: 7433618252195348906
+    second: cerlce_noyau_11
+  - first:
+      213: 3130818163539920983
+    second: cerlce_noyau_12
+  - first:
+      213: 4056856214173160240
+    second: cerlce_noyau_13
+  - first:
+      213: -1016210465778350439
+    second: cerlce_noyau_14
+  - first:
+      213: -4287781665700440880
+    second: cerlce_noyau_15
+  - first:
+      213: 1251158498327860110
+    second: cerlce_noyau_16
+  - first:
+      213: 3227178144439812543
+    second: cerlce_noyau_17
+  - first:
+      213: -6409233930612385929
+    second: cerlce_noyau_18
+  - first:
+      213: 1173356842393737063
+    second: cerlce_noyau_19
+  - first:
+      213: -295775190600228450
+    second: cerlce_noyau_20
+  - first:
+      213: -5259681311288405960
+    second: cerlce_noyau_21
+  - first:
+      213: -3917393237902588058
+    second: cerlce_noyau_22
+  - first:
+      213: -8473526901213576606
+    second: cerlce_noyau_23
+  - first:
+      213: -9163811519568814756
+    second: cerlce_noyau_24
+  - first:
+      213: 1069645549321935125
+    second: cerlce_noyau_25
+  - first:
+      213: 1546874053713389548
+    second: cerlce_noyau_26
+  - first:
+      213: 5859348530799195768
+    second: cerlce_noyau_27
+  - first:
+      213: 9153925570461174544
+    second: cerlce_noyau_28
+  - first:
+      213: -1460482926649643283
+    second: cerlce_noyau_29
+  - first:
+      213: -8288301584376894814
+    second: cerlce_noyau_30
+  - first:
+      213: -3620509163516815529
+    second: cerlce_noyau_31
+  - first:
+      213: -5596172891537804111
+    second: cerlce_noyau_32
+  - first:
+      213: -5629784940461807133
+    second: cerlce_noyau_33
+  - first:
+      213: -5003385059968461284
+    second: cerlce_noyau_34
+  - first:
+      213: 9096418057691806120
+    second: cerlce_noyau_35
+  - first:
+      213: -6094815357776877972
+    second: cerlce_noyau_36
+  - first:
+      213: 7257758125665960266
+    second: cerlce_noyau_37
+  - first:
+      213: 5673381663144404059
+    second: cerlce_noyau_38
+  - first:
+      213: -5627370685726573278
+    second: cerlce_noyau_39
+  - first:
+      213: 9136000057489500137
+    second: cerlce_noyau_40
+  - first:
+      213: 7636886385759102023
+    second: cerlce_noyau_41
+  - first:
+      213: 6881703932219169783
+    second: cerlce_noyau_42
+  - first:
+      213: 5695641790676841448
+    second: cerlce_noyau_43
+  - first:
+      213: 3154790530821109864
+    second: cerlce_noyau_44
+  - first:
+      213: -7218154964940772956
+    second: cerlce_noyau_45
+  - first:
+      213: -822022578357763589
+    second: cerlce_noyau_46
+  - first:
+      213: -1518696108588076301
+    second: cerlce_noyau_47
+  - first:
+      213: -7802327460282148260
+    second: cerlce_noyau_48
+  - first:
+      213: 1833041145710097440
+    second: cerlce_noyau_49
+  - first:
+      213: -8983850660941119899
+    second: cerlce_noyau_50
+  - first:
+      213: -685079133267332478
+    second: cerlce_noyau_51
+  - first:
+      213: 4869987817134271139
+    second: cerlce_noyau_52
+  - first:
+      213: 4565811072498190713
+    second: cerlce_noyau_53
+  - first:
+      213: 3762410443853177245
+    second: cerlce_noyau_54
+  - first:
+      213: -5401542711181369172
+    second: cerlce_noyau_55
+  - first:
+      213: 8524922886162608500
+    second: cerlce_noyau_56
+  - first:
+      213: 7557273475844064993
+    second: cerlce_noyau_57
+  - first:
+      213: -4379347629419103194
+    second: cerlce_noyau_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cerlce_noyau_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afef9fd22ec299570800000000000000
+      internalID: 8473853523819888378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_1
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3d260b460509f60800000000000000
+      internalID: 8039013728242553825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_2
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da005f8de13f320800000000000000
+      internalID: 2590448127840398619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_3
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2bacb8771e6b50800000000000000
+      internalID: 6588229112218463537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_4
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c464cfcd24d9e0800000000000000
+      internalID: -1597601597433263787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_5
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414621d0df1b4dda0800000000000000
+      internalID: -5920911909681208300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_6
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d328b85e23cc80760800000000000000
+      internalID: 7424408504691819069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_7
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 5754
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf024a75a226030800000000000000
+      internalID: 3486395617442331445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28fbd992abbde4a0800000000000000
+      internalID: -6562382774968518612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4052c2cfbf98e7f40800000000000000
+      internalID: 5728167491422397700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_10
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35bc13ccc2424a0800000000000000
+      internalID: -6619116296807427163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_11
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1c6f55a64892760800000000000000
+      internalID: 7433618252195348906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_12
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758432e2886e27b20800000000000000
+      internalID: 3130818163539920983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_13
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03390ae8b39dc4830800000000000000
+      internalID: 4056856214173160240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_14
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9964f3a27f1b5e1f0800000000000000
+      internalID: -1016210465778350439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_15
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 4932
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41e7dea4dbe74c0800000000000000
+      internalID: -4287781665700440880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e831b8a76020d5110800000000000000
+      internalID: 1251158498327860110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14d3e8c6d39cc20800000000000000
+      internalID: 3227178144439812543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_18
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d77b92b3dd07a0800000000000000
+      internalID: -6409233930612385929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_19
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76717a9d4d9984010800000000000000
+      internalID: 1173356842393737063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_20
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9166eef70235ebf0800000000000000
+      internalID: -295775190600228450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_21
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d4e0e6bbd107b0800000000000000
+      internalID: -5259681311288405960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_22
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678c49fa9f92a9c0800000000000000
+      internalID: -3917393237902588058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_23
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 4110
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c2729d2cf76a80800000000000000
+      internalID: -8473526901213576606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd77399f993d080800000000000000
+      internalID: -9163811519568814756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_25
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51959eab5f428de00800000000000000
+      internalID: 1069645549321935125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_26
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ead391c9977510800000000000000
+      internalID: 1546874053713389548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_27
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8763e71d176905150800000000000000
+      internalID: 5859348530799195768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_28
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b04b78ec6490f70800000000000000
+      internalID: 9153925570461174544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_29
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee668424825bbbe0800000000000000
+      internalID: -1460482926649643283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_30
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa68ef4f990afc80800000000000000
+      internalID: -8288301584376894814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_31
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 3288
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757988a191e51cdc0800000000000000
+      internalID: -3620509163516815529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4f73aa7666652b0800000000000000
+      internalID: -5596172891537804111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_33
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e92eedac6cfed1b0800000000000000
+      internalID: -5629784940461807133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_34
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16551a0cc7609ab0800000000000000
+      internalID: -5003385059968461284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_35
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a93b215708fc3e70800000000000000
+      internalID: 9096418057691806120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_36
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c662d1c49bdda6ba0800000000000000
+      internalID: -6094815357776877972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_37
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414602ef8cb8b460800000000000000
+      internalID: 7257758125665960266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_38
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54efe25096ebbe40800000000000000
+      internalID: 5673381663144404059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_39
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 2466
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d32d92d2097e1b0800000000000000
+      internalID: -5627370685726573278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e72c9ec5a799ce70800000000000000
+      internalID: 9136000057489500137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_41
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7442035b4bbabf960800000000000000
+      internalID: 7636886385759102023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_42
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1559f349b08f50800000000000000
+      internalID: 6881703932219169783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_43
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3b925280cfa0f40800000000000000
+      internalID: 5695641790676841448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_44
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868bb52e54118cb20800000000000000
+      internalID: 3154790530821109864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_45
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9abf48d46f3db90800000000000000
+      internalID: -7218154964940772956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_46
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf182abf1d69794f0800000000000000
+      internalID: -822022578357763589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_47
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 1644
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f6d58fe18ceae0800000000000000
+      internalID: -1518696108588076301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a5b9c638098b390800000000000000
+      internalID: -7802327460282148260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_49
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b9bcc535407910800000000000000
+      internalID: 1833041145710097440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_50
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e327f1c63f25380800000000000000
+      internalID: -8983850660941119899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_51
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827192782c1e76f0800000000000000
+      internalID: -685079133267332478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_52
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa4cc0e1ca59340800000000000000
+      internalID: 4869987817134271139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_53
+      rect:
+        serializedVersion: 2
+        x: 4110
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979cccfcaf40d5f30800000000000000
+      internalID: 4565811072498190713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_54
+      rect:
+        serializedVersion: 2
+        x: 4932
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91a6155d54c63430800000000000000
+      internalID: 3762410443853177245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_55
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 822
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca02fe4d58dd905b0800000000000000
+      internalID: -5401542711181369172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471f15fa23c9e4670800000000000000
+      internalID: 8524922886162608500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_57
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ca26af24d0e860800000000000000
+      internalID: 7557273475844064993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cerlce_noyau_58
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 0
+        width: 822
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7688a88e6933c0800000000000000
+      internalID: -4379347629419103194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
